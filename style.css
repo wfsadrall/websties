@@ -1,0 +1,61 @@
+*{
+    font-family: arial;
+    color:white
+
+}
+
+#heder{
+    background-color: rgb(58, 58, 58);
+    padding: 20px;
+}
+body{
+    background-color: rgb(78, 78, 78);
+
+}
+a{
+    color: rgb(180, 180, 180);
+    text-decoration: none;
+}
+
+
+a:hover{
+    color:rgb(213, 213, 213) ;
+
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: rgb(58, 58, 58);
+    background-color: rgb(52, 52, 52);
+}
+
+i{
+    margin-left: 20px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+
+}
+
+.icons{
+  display: flex;
+  justify-content: center; /* centers icons horizontally */
+  align-items: center;     /* centers icons vertically if container has height */
+  gap: 20px;               /* optional: space between icons */
+  margin-top: 15px;        /* optional: spacing above container */
+}
+
+
+
+.hhhh{
+    cursor: pointer;
+}
+
+#stupid-stop-looking-inside-you-know-nothin{
+text-align: center;
+background-color: rgb(58, 58, 58);
+    padding: 20px;
+}
